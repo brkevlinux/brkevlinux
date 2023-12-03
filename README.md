@@ -1,4 +1,4 @@
-# :leaves: brKevLinux :leaves:
+# 🍃 brKevLinux 🍃
 
 ### Olá, seja bem vindo ao meu perfil do GitHub!
 <!--
